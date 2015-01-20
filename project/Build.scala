@@ -12,7 +12,7 @@ object ApplicationBuild extends Build {
   )
   
   val main = play.Project(appName, appVersion, appDependencies).settings(
-    publishTo := Some(Resolver.file("Our Repository", new File("d:\\tmp6\\playforscala.github.com"))),
+    publishTo := Some(Resolver.file("Our Repository", new File("d:\\bak\\code_samples\\ean-module"))),
     organization := "playforscala"
   )
   

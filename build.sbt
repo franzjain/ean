@@ -1,4 +1,4 @@
-name := """ean"""
+name := """ean-module"""
 
 version := "1.0-SNAPSHOT"
 
